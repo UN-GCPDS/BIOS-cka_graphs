@@ -11,7 +11,5 @@ source ../../env38/bin/activate
 
 python test.py
 
-
-
 #deactivate Python3.8 environment
 deactivate
