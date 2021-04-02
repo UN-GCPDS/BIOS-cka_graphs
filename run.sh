@@ -9,7 +9,7 @@
 #Environment with Python3.8
 source ../../env38/bin/activate
 
-
+python test.py
 
 
 
